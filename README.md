@@ -1,3 +1,17 @@
+# ParkQwik - Homepage Design
+
+ParkQwik is a parking app with an intuitive and user-friendly frontend homepage design built using React Native. The design provides easy navigation for users to find, reserve, and pay for parking spots. 
+
+## Features:
+
+Clean, modern layout for smooth user experience
+Simple and intuitive navigation for quick access
+Real-time parking spot availability display
+Easy-to-read sections for search, booking, and payment
+
+
+
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
